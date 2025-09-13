@@ -1,1 +1,8 @@
-
+pandas
+numpy
+matplotlib
+requests
+pyyaml
+yfinance
+ta-lib
+websocket-client
