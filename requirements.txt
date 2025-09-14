@@ -1,6 +1,5 @@
-pandas
-numpy
-matplotlib
-pyyaml
 MetaTrader5
+pyyaml
 requests
+matplotlib
+pandas
