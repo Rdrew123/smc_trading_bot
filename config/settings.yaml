@@ -1,3 +1,8 @@
 telegram:
   bot_token: "8455333322:AAEda2OU1klkkl4pRc2GF7DtaSE5B1ok7Cw"
   chat_id: "6023965279"
+
+mt5:
+  account: 2001257360
+  password: "Tapiwanashi@1"
+  server: "JustMarkets-Demo"
