@@ -1,1 +1,19 @@
+justmarkets:
+  - USDJPY
+  - GBPUSD
+  - EURUSD
+  - USDCAD
+  - CADCHF
+  - NZDCAD
+  - USDNZD
+  - GBPJPY
+  - XAUUSD
+  - SILVER
 
+weltrade:
+  - GainX400
+  - GainX600
+  - GainX800
+  - PainX400
+  - PainX600
+  - PainX800
