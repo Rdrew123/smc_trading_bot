@@ -1,8 +1,6 @@
 pandas
 numpy
 matplotlib
-requests
 pyyaml
-yfinance
-ta-lib
-websocket-client
+MetaTrader5
+requests
